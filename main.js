@@ -94,4 +94,4 @@ else {
 	nameInput.value = '';
 	emailInput.value = '';
 }
-}
+};
